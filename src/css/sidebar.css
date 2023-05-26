@@ -1,0 +1,19 @@
+.category-btn{
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  cursor:pointer;
+  background: transparent;
+  outline: none;
+  border: none;
+  padding: 7px 15px;
+  margin: 5px 0px;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+  color: aliceblue;
+}
+
+.category-btn:hover {
+  background-color: #282828 !important;
+  color: white !important;
+}
