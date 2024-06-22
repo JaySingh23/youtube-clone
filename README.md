@@ -14,7 +14,7 @@ Live site - https://wondrous-vacherin-c262da.netlify.app
 
 ## Technologies Used
 
-ReactJS, MaterialUI, RapidAPI, NodeJS
+ReactJS, MaterialUI, RapidAPI
 
 ## Available Scripts
 
